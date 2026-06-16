@@ -119,7 +119,7 @@ def main():
                 update_availability()
 
             case "4":
-                print("Cảm ơn bạn đã sử dụng hệ thống quản lý thực đơn Rikkei Coffee!")
+                print("bai bai!")
                 break
 
             case _:
